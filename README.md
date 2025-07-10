@@ -40,6 +40,6 @@ A visually accurate and responsive clone of the Netflix landing page built using
 
 ## 📷 Screenshot
 
-![Netflix Clone Screenshot](screenshot.png)
+![Netflix Clone Screenshot](assets/screenshot.png))
 
 https://github.com/thevisualizer-yash/Netflix-clone/tree/main
